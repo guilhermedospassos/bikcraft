@@ -1,5 +1,6 @@
 # Bikcraft
-     Desenvolvimento de um site de vendas de bicicletas totalmente responsivo e otimizado para todos os tipos de telas, utilizando HTML, CSS e JavaScript.
+
+Desenvolvimento de um site de vendas de bicicletas totalmente responsivo e otimizado para todos os tipos de telas, utilizando HTML, CSS e JavaScript.
  
 Acesse o [link do projeto](https://bikcraft-1.vercel.app/).
  
