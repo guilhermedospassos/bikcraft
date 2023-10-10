@@ -1,7 +1,8 @@
 # Bikcraft
  Desenvolvimento de um site de vendas Bikcraft.
-
- Screenshots da Home Page:
+ [Link do projeto]([https://www.genome.gov/](https://bikcraft-1.vercel.app/))
+ 
+Screenshots da Home Page:
 ![Screenshot_1](https://github.com/guilhermedospassos/projeto-html-css/assets/129219826/39803b11-cfb0-44a9-b87b-c7244d20ef36)
 ![Screenshot_2](https://github.com/guilhermedospassos/projeto-html-css/assets/129219826/e02d57ae-bec3-4d71-86b6-c4946852fcf1)
 ![Screenshot_3](https://github.com/guilhermedospassos/projeto-html-css/assets/129219826/3d40da35-e2ea-40c1-b0f6-77af4065e23b)
