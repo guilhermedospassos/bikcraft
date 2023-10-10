@@ -1,5 +1,5 @@
 # Bikcraft
- Desenvolvimento de um site de vendas Bikcraft.
+ Desenvolvimento de um site de vendas de bicicletas, utilizando HTML, CSS e JavaScript.
  
 [Link do projeto](https://bikcraft-1.vercel.app/)
  
