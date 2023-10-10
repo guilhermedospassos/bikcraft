@@ -1,7 +1,7 @@
 # Bikcraft
  Desenvolvimento de um site de vendas de bicicletas, utilizando HTML, CSS e JavaScript.
  
-[Link do projeto](https://bikcraft-1.vercel.app/)
+Acesse o [link do projeto](https://bikcraft-1.vercel.app/).
  
 Screenshots da Home Page:
 ![Screenshot_1](https://github.com/guilhermedospassos/projeto-html-css/assets/129219826/39803b11-cfb0-44a9-b87b-c7244d20ef36)
